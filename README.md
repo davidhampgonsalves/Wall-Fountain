@@ -1,8 +1,6 @@
-<div align="right">
-  <video src="https://github.com/davidhampgonsalves/Wall-Fountain/raw/main/wall-fountain.mp4" width="400" />
-</div>
-
 A wall hanging drip fountain powered by an arduino & 3D printed peristaltic pump.
+
+https://github.com/davidhampgonsalves/Wall-Fountain/assets/178893/fca03c9c-bb05-479c-ad1d-036476f52250
 
 ## About
 I brought a little rain indoors using some copper pipe, an arduino, some cheap 28byj-48 steppers and some custom 3D printed parts. 
